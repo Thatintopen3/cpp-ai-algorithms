@@ -1,1 +1,4 @@
 # C++ AI Algorithms\n\nThis repository focuses on high-performance implementations of Artificial Intelligence (AI) and machine learning algorithms using C++. It emphasizes efficiency, speed, and low-level optimizations for demanding computational tasks.
+
+
+*Last updated: December 2024*
