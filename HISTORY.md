@@ -5,3 +5,4 @@ Historical development log for high-performance-web-server - Entry 4
 Historical development log for high-performance-web-server - Entry 5
 Historical development log for high-performance-web-server - Entry 6
 Historical development log for high-performance-web-server - Entry 7
+Historical development log for high-performance-web-server - Entry 8
